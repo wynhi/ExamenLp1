@@ -1,0 +1,41 @@
+<<<<<<< HEAD
+target
+.classpath
+.project
+.settings
+
+
+
+## This for ignore file of eclipse
+#target
+#.classpath
+#.project
+#.settings
+#.checkstyle
+
+#*.class
+
+## Mobile Tools for Java (J2ME)
+#.mtj.tmp/
+
+## Package Files #
+#*.jar
+#*.war
+#*.ear
+
+## virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+#hs_err_pid*
+=======
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+>>>>>>> 76ce18ad16d157f79270f3478297f5556dce7dae
