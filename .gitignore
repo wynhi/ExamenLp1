@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 target
 .classpath
 .project
@@ -29,6 +30,8 @@ target
 =======
 =======
 >>>>>>> 9b70a2c2b4d7d53678afc6e0d3aa1d0381c72f5e
+=======
+>>>>>>> 315074a8e0034f5afaffe16dedb4478a92e52212
 *.class
 
 # Mobile Tools for Java (J2ME)
@@ -42,6 +45,9 @@ target
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 76ce18ad16d157f79270f3478297f5556dce7dae
 =======
 >>>>>>> 9b70a2c2b4d7d53678afc6e0d3aa1d0381c72f5e
+=======
+>>>>>>> 315074a8e0034f5afaffe16dedb4478a92e52212
